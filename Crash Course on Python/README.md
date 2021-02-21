@@ -40,6 +40,3 @@ A dictionary is the output of the calculate_frequencies function. The wordcloud 
 3. Create a set to store the uninteresting words
 4. Create a dictionary that uses a word as a key and frequencies of the word as a value
 5. Use WordCloud framework to generate a image of world cloud 
-
-### Visual (The Sun Also Rises by Ernest Hemingway)
-![course-one-final-project](https://github.com/jeremymaya/google-it-automation-with-python/blob/master/assets/course-one-final-project.png)

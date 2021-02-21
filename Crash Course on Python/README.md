@@ -1,6 +1,6 @@
 # Crash Course of Python
 
-![Certification](https://user-images.githubusercontent.com/41291493/108625432-4531c600-748e-11eb-9e76-82644ace4591.png){: width="100" height="100"}
+![Certification](https://user-images.githubusercontent.com/41291493/108625432-4531c600-748e-11eb-9e76-82644ace4591.png{: width="70%" height="70%"}
 
 ## Learning Objectives
 * Understand what Python is

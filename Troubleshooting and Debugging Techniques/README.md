@@ -16,4 +16,3 @@
 * Handling Bigger Incidents
 * Managing Computer Resources
 * Managing Our Time
-* Making Our Future Lives Easier

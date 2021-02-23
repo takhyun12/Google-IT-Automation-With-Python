@@ -1,6 +1,6 @@
 # Troubleshooting and Debugging Techniques
 
-![Certification](https://user-images.githubusercontent.com/41291493/108625432-4531c600-748e-11eb-9e76-82644ace4591.png)
+![Troubleshooting and Debugging Techniques](https://user-images.githubusercontent.com/41291493/108815750-539bf100-75f8-11eb-981b-1533fcacd678.png)
 
 ## Learning Objectives
 * What is debugging

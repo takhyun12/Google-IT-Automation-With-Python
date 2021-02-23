@@ -39,3 +39,7 @@ A dictionary is the output of the calculate_frequencies function. The wordcloud 
 3. Create a set to store the uninteresting words
 4. Create a dictionary that uses a word as a key and frequencies of the word as a value
 5. Use WordCloud framework to generate a image of world cloud 
+
+## Credit
+
+* [Crash Course on Python-Link](https://www.coursera.org/account/accomplishments/verify/P6XSG4ES6B8U)

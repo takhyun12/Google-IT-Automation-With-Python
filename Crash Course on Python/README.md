@@ -42,4 +42,4 @@ A dictionary is the output of the calculate_frequencies function. The wordcloud 
 
 ## Credit
 
-* [certification](https://www.coursera.org/account/accomplishments/verify/P6XSG4ES6B8U)
+* [Certification-Link](https://www.coursera.org/account/accomplishments/verify/P6XSG4ES6B8U)

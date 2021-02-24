@@ -11,7 +11,7 @@ This repository is created to keep track of [Google IT Automation With Python](h
 ## Table of Contents
 
 1. [Crash Course On Python](https://github.com/takhyun12/Google-IT-Automation-With-Python/tree/main/Crash%20Course%20on%20Python)
-2. [Using Python to Interact with the Operating System](https://github.com/jeremymaya/google-it-automation-with-python/tree/master/using-python-to-interact-with-the-operating-system)
+2. [Using Python to Interact with the Operating System](https://github.com/takhyun12/Google-IT-Automation-With-Python/tree/main/Using%20Python%20to%20Interact%20with%20the%20Operating%20System)
 3. [Introduction to Git and GitHub](https://github.com/jeremymaya/google-it-automation-with-python/tree/master/introduction-to-git-and-github)
 4. [Troubleshooting and Debugging Techniques](https://github.com/takhyun12/Google-IT-Automation-With-Python/tree/main/Troubleshooting%20and%20Debugging%20Techniques)
 5. [Configuration Management and the Cloud](https://github.com/jeremymaya/google-it-automation-with-python/tree/master/configuration-management-and-the-cloud)

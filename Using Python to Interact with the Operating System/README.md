@@ -3,8 +3,8 @@
 ## Learning Objectives
 * Managing Files with Python
 * Regular Expressions
+* Advanced Regular Expressions
 * Managing Data and Processes
-* Testing in Python
 * Bash Scripting
 
 ### Note

@@ -1,5 +1,7 @@
 # Using Python to Interact with the Operating System
 
+![Using Python to Interact with the Operating System](https://user-images.githubusercontent.com/41291493/109020226-2127ec00-76fd-11eb-8e43-e318af40d9f3.png)
+
 ## Learning Objectives
 * Managing Files with Python
 * Regular Expressions

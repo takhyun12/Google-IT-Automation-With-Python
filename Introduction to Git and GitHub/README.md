@@ -1,5 +1,6 @@
 # Introduction to Git and GitHub
 
+![Certification](https://user-images.githubusercontent.com/41291493/109157479-6b6ca400-77b5-11eb-8be9-dfe25739bd72.png)
 
 ## Learning Objectives
 * Understand the concept of version control and the benefits it brings
@@ -41,4 +42,4 @@ wdiff, kDiff3, vimdiff
 
 ## Credit
 
-* [Certification-Link](https://www.coursera.org/account/accomplishments/verify/9WHT5JRXEAD9)
+* [Certification-Link](https://www.coursera.org/account/accomplishments/verify/FKZ3D5QBM266)

@@ -35,8 +35,6 @@ $ diff a b
 
 # 두파일의 차이점을 시각화 하는 도구
 wdiff, kDiff3, vimdiff
-
-
 ```
 
 ---

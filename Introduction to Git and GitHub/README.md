@@ -1,43 +1,41 @@
-# Troubleshooting and Debugging Techniques
+# Introduction to Git and GitHub
 
-![Troubleshooting and Debugging Techniques](https://user-images.githubusercontent.com/41291493/108815750-539bf100-75f8-11eb-981b-1533fcacd678.png)
 
 ## Learning Objectives
-* What is debugging
-* Binary Searching a Problem
-* Finding Invalid Data
-* Looking into what causes slow scripts, slow computers, or slow systems
-* Looking into what tools are there to help identify the most common causes of slowness, and apply solutions to improve the overall performance
-* Why Programs Crash
-* What to do when you can't fix the program
-* Understand to Internal Server Error
-* Accessing Invalid Memory
-* Debugging a Segmentation Fault
-* Handling Bigger Incidents
-* Managing Computer Resources
-* Managing Our Time
+* Understand the concept of version control and the benefits it brings
+* Utilize the diff and patch commands to automate differentiating and editing files
+* Understand what Git is and the benefits that it brings
+* Install Git on their machine
+* Utilize Git by creating and cloning repositories, adding code, checking the status of code, and committing code.
+* Have a advanced understanding of Git
+* Skip the staging area to delete and move files within Git
+* Amend and roll back commits
+* Understand the concept of branching and merging
+* Create new branches and use merging to combine branched data
+* Manage and handle merge conflicts
+* Understand what GitHub is and how to interact with it
+* Understand what a remote repository is
+* Utilize remote repositories, fetch new changes, and update local repositories
+* Tackle conflicts by utilizing the pull-merge-push workflow
+* Push remote branches and understand the advantages of using separate branches
+* Understand what rebasing is and utilize the git rebase command
+* Understand how to create, update, and execute pull requests on GitHub
+* Understand what a code review is and be able to utilize the code review workflow
+* Explore how to use code reviews in GitHub
+* Understand the importance of managing projects and accepting or rejecting changes
+* Utilize issue trackers
+* Understand the methodology behind continuous integration
+
 
 ### Note
 
 ```
-파이썬 코드를 통한 자원 확인
-> psutil.cpu_percent()
-> psutil.disk_io_counters()
-> psutil.net_io_counters()
+# 두 파일의 차이점을 비교하는 명령어 
+$ diff a b
 
-코어 파일 활성화
-$ ulimit -c unlimited
+# 두파일의 차이점을 시각화 하는 도구
+wdiff, kDiff3, vimdiff
 
-gbg 디버거를 통한 Segmentation Fault 분석
-$ gbg -c core example(file)
-
-충돌이 난 로그를 추적하는 명령어
-$ backtrace 
-
-보편적으로 gdb는 C, C++ 기반의 바이너리에 사용하고, python 코드는 pdb3를 사용한다.
-
-파이썬 디버거를 통한 파이썬 코드 디버깅
-$ pdb3 test.py {parameter}
 
 ```
 

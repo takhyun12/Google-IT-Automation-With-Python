@@ -18,6 +18,13 @@
 * Understand what a rollback is and how they can help in a system failure
 * Understand how primary and secondary instances can help in a disaster recovery situation
 
+```
+# 파이썬 코드를 통한 자원 확인
+> psutil.cpu_percent()
+> psutil.disk_io_counters()
+> psutil.net_io_counters()
+```
+
 ## Credit
 
 * [Certification-Link](https://www.coursera.org/account/accomplishments/verify/P6XSG4ES6B8U)

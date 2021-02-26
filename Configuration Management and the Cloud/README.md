@@ -19,10 +19,16 @@
 * Understand how primary and secondary instances can help in a disaster recovery situation
 
 ```
-# 파이썬 코드를 통한 자원 확인
-> psutil.cpu_percent()
-> psutil.disk_io_counters()
-> psutil.net_io_counters()
+# Peppet
+With Puppet’s automation, new applications and changes can be released simultaneously and with no downtime.
+
+# 5 ways Puppet will make a developer’s life easier
+1. It brings consistency to your servers
+2. It’s reliable
+3. Faster time to deployment
+4. It’s easy to add more servers
+5. More time to focus on what you love to do
+
 ```
 
 ## Credit

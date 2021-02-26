@@ -38,7 +38,6 @@ $ backtrace
 
 # 파이썬 디버거를 통한 파이썬 코드 디버깅
 $ pdb3 test.py {parameter}
-
 ```
 
 ---

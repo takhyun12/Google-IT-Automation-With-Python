@@ -29,6 +29,10 @@ With Puppet’s automation, new applications and changes can be released simulta
 4. It’s easy to add more servers
 5. More time to focus on what you love to do
 
+# What benefits can we gain by using automation to manage our configuration?
+Consistency
+Reliability
+Scalability
 ```
 
 ## Credit

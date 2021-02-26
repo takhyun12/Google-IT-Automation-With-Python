@@ -33,6 +33,9 @@ With Puppet’s automation, new applications and changes can be released simulta
 Consistency
 Reliability
 Scalability
+
+# What is templating?
+The process of capturing the entire system configuration to enable us to reproduce virtual machines
 ```
 
 ## Credit

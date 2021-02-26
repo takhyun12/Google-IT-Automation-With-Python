@@ -1,5 +1,7 @@
 # Configuration Management and the Cloud
 
+![Certification](https://user-images.githubusercontent.com/41291493/109306625-c6200180-7882-11eb-8995-0e64e7f31d07.png)
+
 ## Learning Objectives
 * Learn how to use Puppet, the current industry standard for configuration management
 * Learn about the benefits and challenges of moving services to the Cloud

@@ -14,7 +14,7 @@ This repository is created to keep track of [Google IT Automation With Python](h
 2. [Using Python to Interact with the Operating System](https://github.com/takhyun12/Google-IT-Automation-With-Python/tree/main/Using%20Python%20to%20Interact%20with%20the%20Operating%20System)
 3. [Introduction to Git and GitHub](https://github.com/takhyun12/Google-IT-Automation-With-Python/tree/main/Introduction%20to%20Git%20and%20GitHub)
 4. [Troubleshooting and Debugging Techniques](https://github.com/takhyun12/Google-IT-Automation-With-Python/tree/main/Troubleshooting%20and%20Debugging%20Techniques)
-5. [Configuration Management and the Cloud](https://github.com/jeremymaya/google-it-automation-with-python/tree/master/configuration-management-and-the-cloud)
+5. [Configuration Management and the Cloud](https://github.com/takhyun12/Google-IT-Automation-With-Python/tree/main/Configuration%20Management%20and%20the%20Cloud)
 6. [Automating Real-World Tasks with Python](https://github.com/jeremymaya/google-it-automation-with-python/tree/master/automating-real-world-tasks-with-python)
 
 ---

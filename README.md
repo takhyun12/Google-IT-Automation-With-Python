@@ -1,5 +1,7 @@
 # Google IT Automation With Python
 
+![Certification](https://user-images.githubusercontent.com/41291493/109380788-49d8fd00-791a-11eb-9d91-97a22ca96c62.png)
+
 #### Author: Tackhyun Jung
 
 #### Status: ~ing

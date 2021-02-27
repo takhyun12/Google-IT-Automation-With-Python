@@ -1,7 +1,6 @@
 # Automating Real-World Tasks with Python
 
-
-![Certification](https://user-images.githubusercontent.com/41291493/109306625-c6200180-7882-11eb-8995-0e64e7f31d07.png)
+![Certification](https://user-images.githubusercontent.com/41291493/109381055-4c882200-791b-11eb-8076-8de7712ec3a8.png)
 
 ## Learning Objectives
 * Learn how to use Puppet, the current industry standard for configuration management

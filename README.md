@@ -1,12 +1,13 @@
 # Google IT Automation With Python
 
-![Certification](https://user-images.githubusercontent.com/41291493/109380788-49d8fd00-791a-11eb-9d91-97a22ca96c62.png)
 
 #### Author: Tackhyun Jung
 
-#### Status: ~ing
+#### Status: Completed
 
 This repository is created to keep track of [Google IT Automation With Python](https://www.coursera.org/professional-certificates/google-it-automation) provided by Coursera. This program is developed by Google and designed to teach how to program with Python and how to use Python to automate common system administration tasks. Also, the course will teach how to use Git and GitHub, troubleshoot and debug complex problems, and apply automation at scale by using configuration management and the Cloud.
+
+![Certification](https://user-images.githubusercontent.com/41291493/109380788-49d8fd00-791a-11eb-9d91-97a22ca96c62.png)
 
 ---
 

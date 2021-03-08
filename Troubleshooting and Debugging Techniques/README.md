@@ -1,5 +1,7 @@
 # Troubleshooting and Debugging Techniques
 
+Certificate of the course that is offered at Coursera and Google.
+
 ![Troubleshooting and Debugging Techniques](https://user-images.githubusercontent.com/41291493/108815750-539bf100-75f8-11eb-981b-1533fcacd678.png)
 
 ## Learning Objectives

@@ -6,7 +6,8 @@ Certificate of the course that is offered at Coursera and Google.
 
 #### Status: Completed
 
-This repository is created to keep track of [Crash Course of Python](https://www.coursera.org/learn/python-crash-course) provided by Coursera. This education program is developed by Google and designed to teach how to program with python Programming.
+This repository is created to keep track of [Crash Course of Python](https://www.coursera.org/learn/python-crash-course) provided by Coursera. 
+This educational program is developed by Google and designed to teach how to program with python Programming.
 
 ![Certification](https://user-images.githubusercontent.com/41291493/108625432-4531c600-748e-11eb-9e76-82644ace4591.png)
 ## Learning Objectives

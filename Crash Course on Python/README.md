@@ -1,5 +1,7 @@
 # Crash Course of Python
 
+Certificate of the course that is offered at Coursera and Google.
+
 ![Certification](https://user-images.githubusercontent.com/41291493/108625432-4531c600-748e-11eb-9e76-82644ace4591.png)
 ## Learning Objectives
 * Understand what Python is

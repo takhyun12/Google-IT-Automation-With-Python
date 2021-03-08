@@ -2,6 +2,12 @@
 
 Certificate of the course that is offered at Coursera and Google.
 
+#### Author: Tackhyun Jung
+
+#### Status: Completed
+
+This repository is created to keep track of [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github) provided by Coursera. This education program is developed by Google and designed to teach how to program with python Programming.
+
 ![Certification](https://user-images.githubusercontent.com/41291493/109157479-6b6ca400-77b5-11eb-8be9-dfe25739bd72.png)
 
 ## Learning Objectives

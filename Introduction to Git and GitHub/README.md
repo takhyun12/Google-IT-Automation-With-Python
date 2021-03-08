@@ -1,5 +1,7 @@
 # Introduction to Git and GitHub
 
+Certificate of the course that is offered at Coursera and Google.
+
 ![Certification](https://user-images.githubusercontent.com/41291493/109157479-6b6ca400-77b5-11eb-8be9-dfe25739bd72.png)
 
 ## Learning Objectives

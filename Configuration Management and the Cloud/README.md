@@ -1,5 +1,7 @@
 # Configuration Management and the Cloud
 
+Certificate of the course that is offered at Coursera and Google.
+
 ![Certification](https://user-images.githubusercontent.com/41291493/109306625-c6200180-7882-11eb-8995-0e64e7f31d07.png)
 
 ## Learning Objectives

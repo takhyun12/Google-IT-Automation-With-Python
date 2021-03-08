@@ -2,6 +2,12 @@
 
 Certificate of the course that is offered at Coursera and Google.
 
+#### Author: Tackhyun Jung
+
+#### Status: Completed
+
+This repository is created to keep track of [Troubleshooting and Debugging Techniques](https://www.coursera.org/learn/troubleshooting-debugging-techniques) provided by Coursera. This education program is developed by Google and designed to teach how to program with python Programming.
+
 ![Troubleshooting and Debugging Techniques](https://user-images.githubusercontent.com/41291493/108815750-539bf100-75f8-11eb-981b-1533fcacd678.png)
 
 ## Learning Objectives

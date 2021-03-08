@@ -2,6 +2,12 @@
 
 Certificate of the course that is offered at Coursera and Google.
 
+#### Author: Tackhyun Jung
+
+#### Status: Completed
+
+This repository is created to keep track of [Configuration Management and the Cloud](https://www.coursera.org/learn/configuration-management-cloud) provided by Coursera. This education program is developed by Google and designed to teach how to program with python Programming.
+
 ![Certification](https://user-images.githubusercontent.com/41291493/109306625-c6200180-7882-11eb-8995-0e64e7f31d07.png)
 
 ## Learning Objectives
